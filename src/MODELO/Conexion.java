@@ -9,5 +9,9 @@ package MODELO;
  * @author wilso
  */
 public class Conexion {
-    
+    public PreparedStatement sql;
+
+   public void MetodoConectar(){
+       
+   }
 }
