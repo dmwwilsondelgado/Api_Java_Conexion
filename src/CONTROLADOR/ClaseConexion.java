@@ -17,8 +17,8 @@ public void MetodoConectar(){
 //DONDE LOCALHOST ES EL SERVIDOR Y 3306 PUERTO Y  EL NOMBRE DE LA BD(EMPRESA)
 
            String db="jdbc:mysql://localhost:3306/empresa";
-           String usuario="root"; 
-           String password="";
+           String usuario="wilsondelgado"; 
+           String password="1102717619";
            try
            {   
                //SE OBTIENE EL DRIVE CONTROLADOR PARA MYSQL
