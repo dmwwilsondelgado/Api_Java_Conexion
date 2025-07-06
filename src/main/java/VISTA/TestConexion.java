@@ -9,7 +9,7 @@ package VISTA;
  *
  * @author Propietario
  */
-import MODELO.Conexion;
+import CONTROLADOR.Conexion;
 import java.sql.Connection;
 public class TestConexion {
 
@@ -23,6 +23,7 @@ public class TestConexion {
             System.out.println("¡Está conectado a la base de datos!");
         } else {
             System.out.println("Error al conectar.");
+            
         }
     }
     
