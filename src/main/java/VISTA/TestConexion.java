@@ -9,7 +9,7 @@ package VISTA;
  *
  * @author Propietario
  */
-import MODELO.Conexion;
+import CONTROLADOR.Conexion;
 import java.sql.Connection;
 public class TestConexion {
 
