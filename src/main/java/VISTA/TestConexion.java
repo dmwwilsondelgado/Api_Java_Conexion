@@ -23,6 +23,7 @@ public class TestConexion {
             System.out.println("¡Está conectado a la base de datos!");
         } else {
             System.out.println("Error al conectar.");
+            
         }
     }
     
