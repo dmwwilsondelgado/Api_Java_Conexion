@@ -9,8 +9,8 @@ package VISTA;
  *
  * @author Propietario
  */
-import CONTROLADOR.Conexion;
 import java.sql.Connection;
+import CONTROLADOR.Conexion;
 public class TestConexion {
 
     /**
@@ -26,5 +26,5 @@ public class TestConexion {
             
         }
     }
-    
+
 }
